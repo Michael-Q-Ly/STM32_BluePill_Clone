@@ -2891,10 +2891,10 @@
   )
 
   (symbol (lib_id "Device:LED") (at 238.125 133.985 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid fa2f15a9-5e95-4684-b4d4-03d2c4578c27)
-    (property "Reference" "D1" (id 0) (at 239.7125 126.365 0))
-    (property "Value" "LED" (id 1) (at 239.7125 128.905 0))
+    (property "Reference" "D1" (id 0) (at 238.76 131.445 0))
+    (property "Value" "RED" (id 1) (at 239.395 136.525 0))
     (property "Footprint" "" (id 2) (at 238.125 133.985 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -3106,7 +3106,7 @@
       (reference "C13") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/fa2f15a9-5e95-4684-b4d4-03d2c4578c27"
-      (reference "D1") (unit 1) (value "LED") (footprint "")
+      (reference "D1") (unit 1) (value "RED") (footprint "")
     )
     (path "/7ac34793-115a-4c6f-a05a-ce162dc72db3"
       (reference "FB1") (unit 1) (value "120R") (footprint "")
