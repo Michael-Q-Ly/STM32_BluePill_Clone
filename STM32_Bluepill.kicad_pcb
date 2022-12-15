@@ -145,7 +145,7 @@
 
   (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm" (layer "F.Cu")
     (tedit 5D9F72AF) (tstamp 087307d1-aded-4360-b318-43f39f08fb27)
-    (at 158.18 88.69)
+    (at 160.02 101.6)
     (descr "LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
     (tags "LQFP QFP")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -307,7 +307,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 144bbe99-7076-4ce2-9c55-684ea95eac8f)
-    (at 145.53 97.59)
+    (at 229.43 100.18)
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x04 2.54mm single row")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -358,7 +358,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 17cfedec-b985-487d-b1be-47e4a1919d05)
-    (at 149.31 101.28)
+    (at 233.21 103.87)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -400,7 +400,7 @@
 
   (footprint "Connector_USB:USB_Micro-B_Wuerth_629105150521" (layer "F.Cu")
     (tedit 5A142044) (tstamp 1a34d1fb-00ef-4861-8b30-5cb0bab2577b)
-    (at 133.04 104.76)
+    (at 216.94 107.35)
     (descr "USB Micro-B receptacle, http://www.mouser.com/ds/2/445/629105150521-469306.pdf")
     (tags "usb micro receptacle")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -482,7 +482,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 25726c74-2de3-4147-ba32-b2498fe7e367)
-    (at 149.29 107.2)
+    (at 233.19 109.79)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -524,7 +524,7 @@
 
   (footprint "Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled" (layer "F.Cu")
     (tedit 5A02FE31) (tstamp 302e92a4-8818-4313-9961-f24046eabaa6)
-    (at 131.435 86.625)
+    (at 215.335 89.215)
     (descr "E-Switch slide switch, EG series, SPDT, right angle, http://spec_sheets.e-switch.com/specs/P040042.pdf")
     (tags "switch SPDT")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -584,7 +584,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 30c70691-5652-43b1-b02a-e846e4bfce86)
-    (at 140.74 105.41)
+    (at 224.64 108)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -626,7 +626,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 416a3136-4fa1-4b7d-b79b-bc6a1f4b2eba)
-    (at 149.29 103.26)
+    (at 233.19 105.85)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -668,7 +668,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 47654d48-d59a-4c7a-97cf-5f696a033fa5)
-    (at 149.78 109.17)
+    (at 233.68 111.76)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -710,7 +710,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 4c5cb952-4e44-49a5-a70f-0fdb0d93ed41)
-    (at 150.18 85.34)
+    (at 234.08 87.93)
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x04 2.54mm single row")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -761,7 +761,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 5104de70-880f-4a38-8657-bf17fce9053c)
-    (at 149.29 105.23)
+    (at 233.19 107.82)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -803,7 +803,7 @@
 
   (footprint "Package_TO_SOT_SMD:SOT-223-3_TabPin2" (layer "F.Cu")
     (tedit 5A02FF57) (tstamp 51e24f21-c9f1-46ef-b6cf-fb96fa8ea41d)
-    (at 168.78 87.14)
+    (at 252.68 89.73)
     (descr "module CMS SOT223 4 pins")
     (tags "CMS SOT")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -852,7 +852,7 @@
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 5e4e0c80-2182-4c7e-a174-a2d641ce269e)
-    (at 149.86 96.52)
+    (at 233.76 99.11)
     (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -894,7 +894,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 62612742-68c7-4bcd-b550-4d4191bccd88)
-    (at 157.98 99.8)
+    (at 241.88 102.39)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -936,7 +936,7 @@
 
   (footprint "Inductor_SMD:L_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEF0) (tstamp 66fb7f75-40d4-4deb-9dc6-bd07b2526b56)
-    (at 149.86 99.03)
+    (at 233.76 101.62)
     (descr "Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "inductor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -978,7 +978,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 6cc396d6-bdd3-4c84-9040-f46437613bbd)
-    (at 152.22 101.28)
+    (at 236.12 103.87)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1020,7 +1020,7 @@
 
   (footprint "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" (layer "F.Cu")
     (tedit 5A0FD1B2) (tstamp 6e1646cc-301b-4118-931c-9cff329f584d)
-    (at 155.13 96.59)
+    (at 239.03 99.18)
     (descr "SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package")
     (tags "SMD SMT crystal")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1067,7 +1067,7 @@
 
   (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (layer "F.Cu")
     (tedit 59FED5CC) (tstamp 7c0ec2ec-9fa2-4aa2-925e-f557f8044e36)
-    (at 145.53 85.34)
+    (at 229.43 87.93)
     (descr "Through hole straight pin header, 1x04, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x04 2.54mm single row")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1118,7 +1118,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 8f9a5b85-e786-49bf-a50f-0edce5190800)
-    (at 152.16 103.26)
+    (at 236.06 105.85)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1160,7 +1160,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp 9046be0d-fcce-47bd-a4be-5e64c756ee57)
-    (at 152.16 105.23)
+    (at 236.06 107.82)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1202,7 +1202,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp a1eecf4d-c220-416c-8101-05e1915d2a7b)
-    (at 155.11 99.8)
+    (at 239.01 102.39)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1244,7 +1244,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b4393e16-2db4-45b9-abe5-ce80fb00905b)
-    (at 159.21 95.36)
+    (at 243.11 97.95)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1286,7 +1286,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b6641adb-85fe-4f89-b40c-165cd2763f04)
-    (at 146.91 109.17)
+    (at 230.81 111.76)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1328,7 +1328,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp b6e1da9b-f553-4502-a34d-a2470cef5056)
-    (at 165.31 92.26)
+    (at 249.21 94.85)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1370,7 +1370,7 @@
 
   (footprint "Capacitor_SMD:C_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp cfe13cdd-ead5-400c-979e-27f0945b4536)
-    (at 140.74 102.4)
+    (at 224.64 104.99)
     (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1412,7 +1412,7 @@
 
   (footprint "LED_SMD:LED_0603_1608Metric" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp dd3301d9-f2f2-4525-9e0e-a73dbd6f6a10)
-    (at 140.56 108.81)
+    (at 224.46 111.4)
     (descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
     (tags "LED")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1456,7 +1456,7 @@
 
   (footprint "Capacitor_SMD:C_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e45bf40d-1048-488f-be56-4939e3948387)
-    (at 155.03 103.26)
+    (at 238.93 105.85)
     (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "capacitor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
@@ -1498,7 +1498,7 @@
 
   (footprint "Resistor_SMD:R_0402_1005Metric" (layer "F.Cu")
     (tedit 5F68FEEE) (tstamp e972da66-bbae-4e66-a1a9-339c60141670)
-    (at 144.02 108.51)
+    (at 227.92 111.1)
     (descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
     (property "Sheetfile" "STM32_Bluepill.kicad_sch")
