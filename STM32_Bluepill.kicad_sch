@@ -2042,7 +2042,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 739d17e1-2881-4be3-b648-ac59e741c600)
   )
-  (label "SW_BOOT1" (at 82.55 50.165 0)
+  (label "SW_BOOT0" (at 82.55 50.165 0)
     (effects (font (size 0.6 0.6)) (justify left bottom))
     (uuid 80954c6f-960e-496c-bb7f-e331037e30cf)
   )
